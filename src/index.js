@@ -123,7 +123,7 @@ function PredictionDashboard() {
 
   // Fetch JSON on mount
   useEffect(() => {
-    fetch('/future.json')
+    fetch(`${process.env.PUBLIC_URL}/future.json`)
       .then((res) => res.json())
       .then((json) => {
         setData(json);
