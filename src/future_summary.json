@@ -1,0 +1,110 @@
+{
+  "top_recommendations": {
+    "avgo": {
+      "score": 157.2336803838978,
+      "expected_7d_return": 0.8631682395935059,
+      "risk_level": "LOW"
+    },
+    "tsla": {
+      "score": 120.9994011768407,
+      "expected_7d_return": 0.3800004039491926,
+      "risk_level": "LOW"
+    },
+    "el": {
+      "score": 107.62109320605443,
+      "expected_7d_return": 0.201631526861872,
+      "risk_level": "LOW"
+    },
+    "apo": {
+      "score": 101.11943654837776,
+      "expected_7d_return": 0.11493276166064399,
+      "risk_level": "LOW"
+    },
+    "ulta": {
+      "score": 99.9457612761223,
+      "expected_7d_return": 0.23261056627546037,
+      "risk_level": "LOW"
+    },
+    "wst": {
+      "score": 99.40732084545046,
+      "expected_7d_return": 0.22543114210878099,
+      "risk_level": "LOW"
+    },
+    "sre": {
+      "score": 98.46572099139405,
+      "expected_7d_return": 0.2128763198852539,
+      "risk_level": "LOW"
+    },
+    "mrna": {
+      "score": 95.68307700346561,
+      "expected_7d_return": 0.04826390104634421,
+      "risk_level": "LOW"
+    },
+    "deck": {
+      "score": 92.79118089896917,
+      "expected_7d_return": 0.13721743651798793,
+      "risk_level": "LOW"
+    },
+    "pypl": {
+      "score": 92.39841910306026,
+      "expected_7d_return": 0.1319794590984072,
+      "risk_level": "LOW"
+    }
+  },
+  "avoid_list": {
+    "aptv": {
+      "score": 28.922807670107737,
+      "reason": "Low expected return"
+    },
+    "es": {
+      "score": 28.897821230630854,
+      "reason": "Low expected return"
+    },
+    "itw": {
+      "score": 28.870721367352512,
+      "reason": "Low expected return"
+    },
+    "erie": {
+      "score": 28.829180079995826,
+      "reason": "Low expected return"
+    },
+    "awk": {
+      "score": 28.82261179997459,
+      "reason": "Low expected return"
+    },
+    "kdp": {
+      "score": 28.812402535217412,
+      "reason": "Low expected return"
+    },
+    "zbh": {
+      "score": 28.803224274863517,
+      "reason": "Low expected return"
+    },
+    "orly": {
+      "score": 28.80090927013414,
+      "reason": "Low expected return"
+    },
+    "biib": {
+      "score": 28.795805447513583,
+      "reason": "Low expected return"
+    },
+    "ice": {
+      "score": 28.779220677474022,
+      "reason": "Low expected return"
+    }
+  },
+  "summary": {
+    "total_stocks_analyzed": 503,
+    "successful_predictions": 503,
+    "average_composite_score": 53.35640806227377,
+    "top_score": 157.2336803838978,
+    "rating_distribution": {
+      "STRONG_SELL": 181,
+      "BUY": 145,
+      "SELL": 101,
+      "STRONG_BUY": 75,
+      "HOLD": 1
+    }
+  },
+  "timestamp": "2025-06-16T01:16:58.025323"
+}
